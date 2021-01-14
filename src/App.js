@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import PasswordGenerator from './components/PasswordGenerator'
 
 const App = () => {
-  return <placeholder />
+  return <PasswordGenerator />
 }
 
 export default App
